@@ -7,7 +7,7 @@
 <title>Flight Registration</title>
 </head>
 <body>
-<form name="Book Flight" method="post"action="RegisterServlet">
+<form name="Book Flight" method ="post"action="RegisterServlet">
 
 Flight Name : <input type="text" name="flightname">
 <br>
